@@ -1,16 +1,37 @@
-# hrms_app
+# Human Resource Management System (HRMS)
 
-HR Management System
+A Flutter-based mobile application developed as part of a
+custom Human Resource Management System project.
 
-## Getting Started
+## Project Overview
 
-This project is a starting point for a Flutter application.
+The application provides a mobile interface for HR-related
+operations and communicates with a dedicated backend service.
 
-A few resources to get you started if this is your first Flutter project:
+## Technology Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Riverpod
+- REST API integration
+- Firebase services
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Application Architecture
+
+The mobile application communicates with a separate
+backend repository responsible for server-side operations
+and data management.
+
+## Project Structure
+
+This repository contains the Flutter mobile application
+for the HRMS project.
+
+The backend is maintained separately in the
+`hrms-backend` repository.
+
+## Developer
+
+Sayem Jawhar
+
+GitHub: https://github.com/Jawharsayem
